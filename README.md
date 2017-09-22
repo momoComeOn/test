@@ -1,7 +1,7 @@
 # test
 test for myself
-#nothing
+# nothing
 faker
-#python
-python 文件夹中写了本科教务选课的程序，但是没跑通 有些尴尬
+# python
+python 文件夹中写了教务抢课课的程序，学校教务也些渣，写得也很烂,所以很幸运地跑通了
 ***hello world !***
